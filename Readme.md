@@ -1,0 +1,1 @@
+Este é um dos exercícios do curso introdutório da Awari onde nos foi pedido para criar uma lista de contatos. Percebi que repeti os mesmos métodos em CProfissional e em CPessoal, acredito que pode ficar melhor sem esta repetição mas não encontrei o modo de fazer isso. Por favor me ajudem a tornar os meus programas mais enxutos.
