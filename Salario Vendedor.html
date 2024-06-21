@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    var salario = parseFloat(prompt("Digite o salário do vendedor:"));
+    var vendaMes = parseFloat(prompt("Digite o valor das vendas mensais: "));
+    //console.log(vendaMes)
+    if(vendaMes <= 1000){
+      var premio = 0;
+      
+    }else if(vendaMes > 1000 && vendaMes <= 5000){
+      premio = 500;
+    }else if(vendaMes > 5000 && vendaMes <= 7500){
+      premio = 700;
+    }else if(vendaMes > 7500){
+     premio = 1000;
+    }
+    console.log(`O seu salário será de: R$ ${salario + premio}.  Este mês você receberá de prêmio o valor de R$ ${premio}.`);
+    
+
+  </script>
+</body>
+</html>
