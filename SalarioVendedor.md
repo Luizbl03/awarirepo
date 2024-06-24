@@ -11,3 +11,6 @@ O programa deve calcular e informar o salário final do vendedor e qual foi o pr
 
 Visto que o resultado será visto no console, na segunda versão irei imprimir os valores na página.
 
+23/06/24
+Neste melhoramento inseri os valores calculados na página HTML.
+Acredito que posso melhorar ainda mais há muitas repetições no meu código vou tentar aplicar o conceito de funções para enxugá-lo ainda mais.
